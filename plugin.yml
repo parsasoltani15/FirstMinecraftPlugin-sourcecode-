@@ -1,0 +1,10 @@
+name: MinecraftPlugin
+version: '1.0'
+main: me.Plugin.mainclass
+api-version: 1.16
+author: "Parsa"
+commands:
+  fly:
+    description: You can fly.
+    usage: /<command> [Player]
+    aliases: [fly]
